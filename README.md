@@ -259,9 +259,3 @@ Every push to `main` triggers an automated workflow:
 - **CSRF Protection:** Enabled for all state-changing operations
 - **Dependency Management:** Regular updates and security scanning
 
-
-## 📝 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-**Made with ❤️ by Aman Jha**
